@@ -1,0 +1,17 @@
+Wheel
+   Hub-motor:
+   Tire:
+
+Brains:
+  Motor controller:
+  Control system:
+  Gyro:
+  Accelerometer:
+ 
+Body
+  Frame:
+  Wood:
+  
+
+
+
