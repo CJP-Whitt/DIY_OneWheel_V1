@@ -33,5 +33,5 @@ Do your research! I do not take responsibility for any issues you may encounter 
 - (Easy) Vesc open source balancing tool
 - (Hard) Arduino self made balancing
 
-## Step One: The frame
+### Step One: The frame
 I have created a CAD file for the frame if you want to follow my process, but generally you need two rails that will hold the wires going from the battery compartment to your other components. If you are machinist this will be fairly easy, but if not I suggest you have someone else do this part.
