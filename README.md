@@ -39,4 +39,4 @@ I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you 
 - I would suggest getting the rails extra long just in case you need larger component trays than you first thought, you can cut them later
 
 ### Step Two: Battery Pack
-![Screenshot](/OneWheel Photos/)
+![alt test](OneWheel%20Photos/Batt_Finished.jpg)
