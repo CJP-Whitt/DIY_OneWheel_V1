@@ -41,4 +41,6 @@ I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you 
 - I would suggest getting the rails extra long just in case you need larger component trays than you first thought, you can cut them later
 
 ### Step Two: Battery Pack
+I would suggest that if you are unfamiliar with batteries you do some research prior to building your packs. Essentially I built two 13 cell packs and ran them parralel, but it's not appearent from my final photo because I did some magic to make more space in my battery tray.
+![alt test](OneWheel%20Photos/Batt_OldSeriesPack.jpg)
 ![alt test](OneWheel%20Photos/Batt_Finished.jpg)
