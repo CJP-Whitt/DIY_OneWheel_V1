@@ -38,4 +38,7 @@ I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you 
 - Holes on top of rails to attach component trays and foot pads
 - I would suggest getting the rails extra long just in case you need larger component trays than you first thought, you can cut them later
 
+### Step Two: Battery Pack
+
+
 
