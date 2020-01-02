@@ -1,7 +1,7 @@
 # OneWheel
 Custom DIY OneWheel Electric Board. I decided to try to make an easy to follow guide on my one wheel process in hopes that everyone else doesn't have to go through the same pain as me in order to do their own DIY OneWheel. Very fun project with great opportunities for learning to engineer.
 
-# Disclaimer
+# Disclaimer!
 Do your research! I do not take responsibility for any issues you may encounter during your build if you attempt to make a onewheel. It is difficult and there are many roadblocks you must engineer your way through. Learning comes through failure and troubleshooting so get used to it now if you plan on doing more projects in the future.
 
 # Components
@@ -56,6 +56,13 @@ I would suggest that if you are unfamiliar with batteries you do some research p
 At this point in the project I 3D printed two trays to hold my batteries and components. I also printed a plate to hold all of my non battery components, all these components are in the OneWheel frame CAD file.
 ![alt test](OneWheel%20Photos/Wiring_Plate.jpg)
 
-Here is a photo of the hall sensor connection to the VESC,
+Here is a photo of the hall sensor connection to the VESC, from left to right in the pic it goes 5v,Temp,H3,H2,H1,GND
+Im pretty sure the order of hall sensors doesnt matter, if it doesnt work in vesc than just switch two and it should.
+Same goes for the phase wires (The 3 bullet connectors coming from the motor).
 ![alt test](OneWheel%20Photos/Wiring_Hall.jpg)
+
+This is the wiring for the MPU6050
+![alt test](OneWheel%20Photos/Wiring_MPU.jpg)
+
+![alt test](OneWheel%20Photos/Wiring_VescMPU.jpg)
 
