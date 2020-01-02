@@ -64,11 +64,13 @@ Here is a general wiring diagram for the OneWheel. Sorry for how unprofesional i
 Here is a photo of the hall sensor connection to the VESC, from left to right in the pic it goes 5v,Temp,H3,H2,H1,GND
 Im pretty sure the order of hall sensors doesnt matter, if it doesnt work in vesc than just switch two and it should.
 Same goes for the phase wires (The 3 bullet connectors coming from the motor).
-The motor listed in the parts section does not have a temo wire so leave that pin empty.
+The motor listed in the parts section does not have a temp wire so leave that pin empty.
 ![alt test](OneWheel%20Photos/Wiring_Hall.jpg)
 
-This is the wiring for the MPU6050
+This is the wiring for the MPU6050...
 ![alt test](OneWheel%20Photos/Wiring_MPU.jpg)
 
+And its connection to the VESC, its the connector on the right side of the picture.
+The spots left empty in the JST connector are for wiring the footpads, I will go over that later.
 ![alt test](OneWheel%20Photos/Wiring_VescMPU.jpg)
 
