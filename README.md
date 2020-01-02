@@ -71,8 +71,8 @@ This is the wiring for the MPU6050...
 ![alt test](OneWheel%20Photos/Wiring_MPU.jpg)
 
 And its connection to the VESC, its the connector on the right side of the picture.
-The spots left empty in the JST connector are for wiring the footpads, I will go over that later.
-![alt test](OneWheel%20Photos/Wiring_VescMPU.jpg)
+The wires you dont see in the MPU (Dark Blue, two greens) are the wires for the switches, which will be wired to footpads later, but its best to just use them as bare wires for testing. Dark blue is the 3.3v pin, and when connected with one or both green wires (MISO, SCK) it will toggle switches on the VESC we will use later.
+![alt test](OneWheel%20Photos/Wiring_Switch.jpg)
 
 ### Step Four: VESC App
 With everything now wired up I would suggest you test using a mulimeter from the beggining of your wiring to the end to make sure you dont fry anything. This is also why I say to use a fuse.
