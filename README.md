@@ -14,7 +14,7 @@ Do your research! I do not take responsibility for any issues you may encounter 
 6. 48V 13s Battery Management System (BMS): https://vruzend.com/product/48v-13s-battery-management-system-bms/
 7. VRUZEND battery kit V2.1 (Battery Clips): https://vruzend.com/product/vruzend-battery-kit-v2-0/
 8. Adafruit Grand Central M4 Express featuring SAMD51: https://www.adafruit.com/product/4084
-9. Solid state relay: https://www.amazon.com/TinaWood-SSR-25DD-Solid-State-5-200V/dp/B07F3WGRP4/ref=lp_6374820011_1_1_sspa?s=industrial&ie=UTF8&qid=1577918541&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVEZXTjRGWDJTTUdLJmVuY3J5cHRlZElkPUEwNzE0MTc2MzREV0NXVVVCWFVGOSZlbmNyeXB0ZWRBZElkPUEwNjc3Nzg1M0pLMFNLWVJLN0ZUVSZ3aWRnZXROYW1lPXNwX2F0Zl9icm93c2UmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
+9. Solid state relay (Read the spec sheet, it works very inintuitvly): https://www.amazon.com/TinaWood-SSR-25DD-Solid-State-5-200V/dp/B07F3WGRP4/ref=lp_6374820011_1_1_sspa?s=industrial&ie=UTF8&qid=1577918541&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVEZXTjRGWDJTTUdLJmVuY3J5cHRlZElkPUEwNzE0MTc2MzREV0NXVVVCWFVGOSZlbmNyeXB0ZWRBZElkPUEwNjc3Nzg1M0pLMFNLWVJLN0ZUVSZ3aWRnZXROYW1lPXNwX2F0Zl9icm93c2UmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
 10. 60v to 3v-32v step-down converter, preferably one with a flyback diode, you can get them everywhere and I got one on ebay
 11. MPU6050 gyro, you can get these anywhere.
 
@@ -73,4 +73,9 @@ This is the wiring for the MPU6050...
 And its connection to the VESC, its the connector on the right side of the picture.
 The spots left empty in the JST connector are for wiring the footpads, I will go over that later.
 ![alt test](OneWheel%20Photos/Wiring_VescMPU.jpg)
+
+### Step Four: VESC App
+With everything now wired up I would suggest you test using a mulimeter from the beggining of your wiring to the end to make sure you dont fry anything. This is also why I say to use a fuse.
+
+Plug in your vesc and open the app (Google how to get the app, it's easy). Then turn on your OneWheel
 
