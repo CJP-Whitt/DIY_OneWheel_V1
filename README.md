@@ -70,7 +70,7 @@ The motor listed in the parts section does not have a temp wire so leave that pi
 This is the wiring for the MPU6050...
 ![alt test](OneWheel%20Photos/Wiring_MPU.jpg)
 
-And its connection to the VESC, its the connector on the right side of the picture.
+And its connection to the VESC, its the connector at the front of the picture.
 The wires you dont see in the MPU (Dark Blue, two greens) are the wires for the switches, which will be wired to footpads later, but its best to just use them as bare wires for testing. Dark blue is the 3.3v pin, and when connected with one or both green wires (MISO, SCK) it will toggle switches on the VESC we will use later.
 ![alt test](OneWheel%20Photos/Wiring_Switch.jpg)
 
