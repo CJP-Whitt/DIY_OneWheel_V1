@@ -23,8 +23,7 @@ Do your research! I do not take responsibility for any issues you may encounter 
 3. Aluminum Rectangular Hollow Tube 2" x 1" https://store.buymetal.com/aluminum/rectangular-tube/6061-t6-t6511/aluminum-rectangular-tube-6061-t6511-2-1-0.125.html
 4. Switch, I used an aircraft style switch because they look cool...but any will work as long as it works with the output voltage of your voltage step-down converter. In my case it was 12v
 5. If you are doing the arduino method you need another voltage step-down from 48ish volts to 5v to power your arduino board
-
-
+6. I suggest using JST Connectors!!! It's super cheap to get on Amazon and will help you undo your mistakes much easier
 
 # Build Info
 - 48v 13s 2p Battery Pack
@@ -40,7 +39,23 @@ I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you 
 - Holes on top of rails to attach component trays and foot pads
 - I would suggest getting the rails extra long just in case you need larger component trays than you first thought, you can cut them later
 
+Here is the rail after I finshed and put my switch and stuff in
+![alt test](OneWheel%20Photos/Rail_Finished.jpg)
+
 ### Step Two: Battery Pack
-I would suggest that if you are unfamiliar with batteries you do some research prior to building your packs. Essentially I built two 13 cell packs and ran them parralel, but it's not appearent from my final photo because I did some magic to make more space in my battery tray.
+I would suggest that if you are unfamiliar with batteries you do some research prior to building your packs. Essentially I built two 13 cell packs and ran them parralel, but it's not appearent from my final photo because I did some wiring magic to make more space in my battery tray.
 ![alt test](OneWheel%20Photos/Batt_OldSeriesPack.jpg)
 ![alt test](OneWheel%20Photos/Batt_Finished.jpg)
+- 26 18650 3.7 cells total
+- 13 cells in series (x2)
+- Put both those packs in parralel
+- (You could do this with 13 cells and just make one pack if you really want, it will have the same voltage, but I wanted more amp-hours)
+- Look at the wiring guide for your battery management system (BMS) and wire accordingly. In my case I soldered 1 balancing wire to each two cell grou wired in series for a total of 13 wires. Then I connected the + and - wires to their respective locaitons.
+
+### Step Three: Component Wiring
+At this point in the project I 3D printed two trays to hold my batteries and components. I also printed a plate to hold all of my non battery components, all these components are in the OneWheel frame CAD file.
+![alt test](OneWheel%20Photos/Wiring_Plate.jpg)
+
+Here is a photo of the hall sensor connection to the VESC,
+![alt test](OneWheel%20Photos/Wiring_Hall.jpg)
+
