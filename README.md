@@ -16,6 +16,7 @@ Do your research! I do not take responsibility for any issues you may encounter 
 8. Adafruit Grand Central M4 Express featuring SAMD51: https://www.adafruit.com/product/4084
 9. Solid state relay: https://www.amazon.com/TinaWood-SSR-25DD-Solid-State-5-200V/dp/B07F3WGRP4/ref=lp_6374820011_1_1_sspa?s=industrial&ie=UTF8&qid=1577918541&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVEZXTjRGWDJTTUdLJmVuY3J5cHRlZElkPUEwNzE0MTc2MzREV0NXVVVCWFVGOSZlbmNyeXB0ZWRBZElkPUEwNjc3Nzg1M0pLMFNLWVJLN0ZUVSZ3aWRnZXROYW1lPXNwX2F0Zl9icm93c2UmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
 10. 60v to 3v-32v step-down converter, preferably one with a flyback diode, you can get them everywhere and I got one on ebay
+11. MPU6050 gyro, you can get these anywhere.
 
 **Other Components*
 1. HiLetgo HC-05 Wireless Bluetooth RF Transceiver: https://www.amazon.com/gp/product/B071YJG8DR/ref=ox_sc_act_title_1?smid=A30QSGOJR8LMXA&psc=1
@@ -39,7 +40,7 @@ I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you 
 - Holes on top of rails to attach component trays and foot pads
 - I would suggest getting the rails extra long just in case you need larger component trays than you first thought, you can cut them later
 
-Here is the rail after I finshed and put my switch and stuff in
+Here is the rail after I finshed and put my switch and stuff in. The yellow male connector is wired for charging to the bms and pack.
 ![alt test](OneWheel%20Photos/Rail_Finished.jpg)
 
 ### Step Two: Battery Pack
@@ -56,9 +57,14 @@ I would suggest that if you are unfamiliar with batteries you do some research p
 At this point in the project I 3D printed two trays to hold my batteries and components. I also printed a plate to hold all of my non battery components, all these components are in the OneWheel frame CAD file.
 ![alt test](OneWheel%20Photos/Wiring_Plate.jpg)
 
+Here is a general wiring diagram for the OneWheel. Sorry for how unprofesional it is. Keep in mind if you are using something besides the VESC balancing app you need to wire the board in between the vesc and relay.
+![alt test](OneWheel%20Photos/Wiring_Drawing.jpg)
+
+
 Here is a photo of the hall sensor connection to the VESC, from left to right in the pic it goes 5v,Temp,H3,H2,H1,GND
 Im pretty sure the order of hall sensors doesnt matter, if it doesnt work in vesc than just switch two and it should.
 Same goes for the phase wires (The 3 bullet connectors coming from the motor).
+The motor listed in the parts section does not have a temo wire so leave that pin empty.
 ![alt test](OneWheel%20Photos/Wiring_Hall.jpg)
 
 This is the wiring for the MPU6050
