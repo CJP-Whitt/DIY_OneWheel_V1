@@ -6,6 +6,7 @@ Do your research! I do not take responsibility for any issues you may encounter 
 
 # Components
 **Fundamental Components**
+1. MPU6050 gyro, you can get these anywhere.
 2. TORQUE ESC BLDC ELECTRONIC SPEED CONTROLLER (VESC-Motor Controller): https://diyelectricskateboard.com/products/torque-esc-bldc-electronic-speed-controller
 3. 10inch 10 inch 10x6.00-5.5 wide tubeless tyre brushless gearless dc wheel hub motor (600W, 48V): https://www.aliexpress.com/item/32823573279.html?spm=a2g0o.productlist.0.0.72e6465ebj6ewY&algo_pvid=851b054b-e5d0-4ce6-a4b5-11497fe5d88c&algo_expid=851b054b-e5d0-4ce6-a4b5-11497fe5d88c-8&btsid=ef94e4fb-6a05-4494-a79c-043c26847dfc&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55
 4. Grip Tape (Get this anywhere that fits and has good reviews)
@@ -15,7 +16,7 @@ Do your research! I do not take responsibility for any issues you may encounter 
 8. Adafruit Grand Central M4 Express featuring SAMD51: https://www.adafruit.com/product/4084
 9. Relay 12v switch, 120A max: https://www.amazon.com/Heavy-Duty-Relay-Split-Charge/dp/B07T35K8S2/ref=sr_1_12_sspa?gclid=Cj0KCQiAxrbwBRCoARIsABEc9sig7-S4l6okahDaEJmfuOvVVYE2xkklJyqML_9cLc2hu3RcjMeeA-QaAli5EALw_wcB&hvadid=322362950837&hvdev=c&hvlocphy=1014046&hvnetw=g&hvpos=1t2&hvqmt=e&hvrand=14030937440563530796&hvtargid=kwd-303078168660&hydadcr=5707_9590301&keywords=12v+120a+relay&qid=1578031911&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUVRFV0JYT1hGSEFJJmVuY3J5cHRlZElkPUEwMjE5MzQwN05PSko5NEJDM0hCJmVuY3J5cHRlZEFkSWQ9QTA4MDc4NDRON01RVzNMUzNWU1Mmd2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
 10. 60v to 3v-32v step-down converter, preferably one with a flyback diode, you can get them everywhere and I got one on ebay
-11. MPU6050 gyro, you can get these anywhere.
+
 
 **Other Components*
 1. HiLetgo HC-05 Wireless Bluetooth RF Transceiver: https://www.amazon.com/gp/product/B071YJG8DR/ref=ox_sc_act_title_1?smid=A30QSGOJR8LMXA&psc=1
