@@ -19,7 +19,7 @@ Do your research! I do not take responsibility for any issues you may encounter 
 11. 10in wide skate deck: https://www.amazon.com/gp/product/B003FVFVUU/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
 
 
-**Other Components*
+**Other Components**
 1. HiLetgo HC-05 Wireless Bluetooth RF Transceiver: https://www.amazon.com/gp/product/B071YJG8DR/ref=ox_sc_act_title_1?smid=A30QSGOJR8LMXA&psc=1
 2. Pressure-Sensitive Conductive Sheet: https://www.adafruit.com/product/1361
 3. Aluminum Rectangular Hollow Tube 2" x 1" https://store.buymetal.com/aluminum/rectangular-tube/6061-t6-t6511/aluminum-rectangular-tube-6061-t6511-2-1-0.125.html
