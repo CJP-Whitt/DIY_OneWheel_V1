@@ -63,6 +63,9 @@ At this point in the project I 3D printed two trays to hold my batteries and com
 Here is a general wiring diagram for the OneWheel. Sorry for how unprofesional it is. Keep in mind if you are using something besides the VESC balancing app you need to wire the arduino board or whatever you use for the balancing logic in between the vesc and relay.
 ![alt test](OneWheel%20Photos/Wiring_Drawing.jpg)
 
+This is the adjustable voltage step down converter I used
+![alt test](OneWheel%20Photos/converter.jpg)
+
 
 Here is a photo of the hall sensor connection to the VESC, from left to right in the pic it goes 5v,Temp,H3,H2,H1,GND
 Im pretty sure the order of hall sensors doesnt matter, if it doesnt work in vesc than just switch two and it should.
@@ -77,7 +80,17 @@ And its connection to the VESC, its the connector at the front of the picture.
 The wires you dont see in the MPU (Dark Blue, two greens) are the wires for the switches, which will be wired to footpads later, but its best to just use them as bare wires for testing. Dark blue is the 3.3v pin, and when connected with one or both green wires (MISO, SCK) it will toggle switches on the VESC we will use later.
 ![alt test](OneWheel%20Photos/Wiring_Switch.jpg)
 
-### Step Four: VESC App
+#### Finished Component and Battery Tray
+![alt test](OneWheel%20Photos/componentTray.jpg)
+![alt test](OneWheel%20Photos/batteryTray.jpg)
+![alt test](OneWheel%20Photos/onewheelAlmostDone.jpg)
+
+### Step Four: Decks
+The one wheel needs a deck on top to rest your foot on so I found a deck (listed in the componenets) wide enough to cover the tray and rails. Then I drilled holes and counter sunk them to enable me to attach it to the rails.
+The picture is from when I was painting them so ignore the paint stuff.
+![alt test](OneWheel%20Photos/deck.jpg)
+
+### Step Five: VESC App
 With everything now wired up I would suggest you test using a mulimeter from the beggining of your wiring to the end to make sure you dont fry anything. This is also why I say to use a fuse.
 
 Plug in your vesc and open the app (Google how to get the app, it's easy). Then turn on your OneWheel
