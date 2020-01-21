@@ -1,4 +1,4 @@
-b# OneWheel
+# OneWheel
 Custom DIY OneWheel Electric Board. I decided to try to make an easy to follow guide on my one wheel process in hopes that everyone else doesn't have to go through the same pain as me in order to do their own DIY OneWheel. Very fun project with great opportunities for learning to engineer.
 
 # Disclaimer!
