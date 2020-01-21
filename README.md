@@ -94,4 +94,7 @@ The picture is from when I was painting them so ignore the paint stuff.
 With everything now wired up I would suggest you test using a mulimeter from the beggining of your wiring to the end to make sure you dont fry anything. This is also why I say to use a fuse.
 
 Plug in your vesc and open the app (Google how to get the app, it's easy). Then turn on your OneWheel
+Here is a good video on how to set it all up: https://www.youtube.com/watch?v=0y5ME2SgwLg
+
+I have XML files for the settings of the motor and app configuration in this repo
 
