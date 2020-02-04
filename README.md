@@ -99,8 +99,28 @@ Here is a good video on how to set it all up: https://www.youtube.com/watch?v=0y
 
 I have XML files for the settings of the motor and app configuration in this repo
 
+After this you can technically ride it fairly easily but I went ahead and added some other stuff to make the ride better.
+
+### Add Ons: Dead Mans Switch (for testing), Safety Wheels
+#### Dead Mans Switch
+I used an old Wii Nunchuck and wired the two vesc switches that will later be used for a pressure senstive footpad. This is so that when I did test rided if anything went wrong the wheek wouldnt run away from me.
+
+Wiring of the nunchuck
+![alt test](OneWheel%20Photos/DeadMans.jpg)
+
+Testing through VESC App
+![alt test](OneWheel%20Photos/DeadMans2.jpg)
+
+#### Safety Wheels
+I screwed 4 1in wide furniture wheels to frame so that if I slammed the nose or tail down I wouldnt dig in and get thrown off.
+
+Here they are attached to the underside of the rails
+![alt test](OneWheel%20Photos/OneWheelBotWheels.jpg)
+
 ## Demo
 
 ### Maiden Voyage
+First time testing the OneWheel without supports
+![alt test](OneWheel%20Photos/OneWheel.gif)
 
 
