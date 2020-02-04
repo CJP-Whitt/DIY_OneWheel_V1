@@ -28,11 +28,12 @@ Do your research! I do not take responsibility for any issues you may encounter 
 4. Switch, I used an aircraft style switch because they look cool...but any will work as long as it works with the output voltage of your voltage step-down converter. In my case it was 12v
 5. If you are doing the arduino method you need another voltage step-down from 48ish volts to 5v to power your arduino board
 6. I suggest using JST Connectors!!! It's super cheap to get on Amazon and will help you undo your mistakes much easier
+7. 1in wide furniture wheels
 
 # Build Info
 - 48v 13s 2p Battery Pack
 - (Easy) Vesc open source balancing tool
-- (Hard) Arduino self made balancing
+- (Hard) Arduino self made balancing logic
 
 ### Step One: The frame
 I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you want to follow my process, but generally you need two rails that will hold the wires going from the battery compartment to your other component and mounts for connecting the motor axle to to your rails. If you are machinist this will be fairly easy, but if not I suggest you have someone else do this part. My CAD files provides the general outline but you need to deicide how you want to do your own motor mounts.
@@ -97,4 +98,9 @@ Plug in your vesc and open the app (Google how to get the app, it's easy). Then 
 Here is a good video on how to set it all up: https://www.youtube.com/watch?v=0y5ME2SgwLg
 
 I have XML files for the settings of the motor and app configuration in this repo
+
+## Demo
+
+### Maiden Voyage
+
 
