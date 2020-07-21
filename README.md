@@ -6,7 +6,7 @@ Link to the CAD File --> https://a360.co/2GcbuvP
 # Disclaimer!
 Do your research! I do not take responsibility for any issues you may encounter during your build if you attempt to make a onewheel. It is difficult and there are many roadblocks you must engineer your way through. Learning comes through failure and troubleshooting so get used to it now if you plan on doing more projects in the future.
 
-# Finished Project
+# Finished Project - _Max Range: 5.5 miles (8.8 km), Max Speed: 20mph (32 kmh)_
 <p align="center"><img src="OneWheel%20Photos/whole_angle.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Rail_switch.jpg" height=45% width=45%></p>
 <p align="center"><img src="OneWheel%20Photos/Brains_tray2.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Brains_tray_close_marked.jpg" height=45% width=45%></p>
 <p align="center"><img src="OneWheel%20Photos/battery_tray_full.jpg" height=45% width=45%> <img src="OneWheel%20Photos/battery_tray_full_close_marked.jpg" height=45% width=45%></p>
@@ -117,9 +117,9 @@ Testing through VESC App
 ![alt test](OneWheel%20Photos/DeadMans2.jpg)
 
 #### Safety Wheels
-I screwed 4 1in wide furniture wheels to frame so that if I slammed the nose or tail down I wouldn't dig in and get thrown off.
+I bought some rubber wheels with bearings from McMaster-Carr but sadly I measured something wrong and they didnt fit inside the rails, so I attached them on the outer side of the rail, with the bolt going through a whole on the other side for rigidity.
 
-Here they are attached to the underside of the rails
+Here they are attached to the side of the rails
 ![alt test](OneWheel%20Photos/OneWheelBotWheels.jpg)
 
 ## Demos
@@ -129,3 +129,6 @@ First time testing the OneWheel without supports --> https://www.youtube.com/wat
 
 ## Future Plans
 1. Added parallel pack to fit in the brains tray
+
+
+
