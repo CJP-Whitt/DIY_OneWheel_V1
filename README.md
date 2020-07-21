@@ -142,13 +142,20 @@ Arduino code is in this repo
 
 ## Demos
 
+<p align="center"><img src="OneWheel%20Photos/Riding_pic.jpg" height=50% width=80%></p>
+
+
 ### Maiden Voyage
-First time testing the OneWheel without supports --> https://www.youtube.com/watch?v=Fk23jWkvQ68
+First time testing the OneWheel --> https://www.youtube.com/watch?v=Fk23jWkvQ68
+
+
 
 
 
 ## Future Plans
 1. Added parallel pack to fit in the brains tray
+2. More compact battery packs so I can shrink tray depth
+3. More concealed wheels
 
 
 
