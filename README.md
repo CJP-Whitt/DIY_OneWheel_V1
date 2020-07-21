@@ -38,6 +38,8 @@ Do your research! I do not take responsibility for any issues you may encounter 
 - (Easy) Vesc open source balancing tool
 - (Hard) Arduino self made balancing logic
 
+# Build Progression
+
 ### Step One: The frame
 I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you want to follow my process, but generally you need two rails that will hold the wires going from the battery compartment to your other component and mounts for connecting the motor axle to to your rails. If you are machinist this will be fairly easy, but if not I suggest you have someone else do this part. My CAD files provide the general outline but you need to decide how you want to do your own motor mounts.
 ![alt test](OneWheel%20Photos/Rail_IsoView.jpg)
