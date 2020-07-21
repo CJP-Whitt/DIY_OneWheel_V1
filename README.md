@@ -1,8 +1,4 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-.medium {height=40% width=40%}
-</style>")
-# OneWheel
+# DIY OneWheel
 Custom DIY OneWheel Electric Board. I decided to try to make an easy to follow guide on my one wheel process in hopes that everyone else doesn't have to go through the same pain as me in order to do their own DIY OneWheel. Very fun project with great opportunities for learning to engineer.
 
 Link to the CAD File --> https://a360.co/2GcbuvP
@@ -12,6 +8,7 @@ Do your research! I do not take responsibility for any issues you may encounter 
 
 # Finished Project
 <p align="center"><img src="OneWheel%20Photos/whole_angle.jpg" height=40% width=40%> <img src="OneWheel%20Photos/whole_wide.jpg" height=40% width=40%></p>
+<p align="center"><img src="OneWheel%20Photos/Brains_tray_close_marked.jpg" height=80% width=80%></p>
 
 
 # Components
