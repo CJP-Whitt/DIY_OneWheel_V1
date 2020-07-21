@@ -132,7 +132,7 @@ Here's some pics of my process…
 ### Footpads
 I really thought this would be the easiest part but it ended up taking much longer than I wanted. I couldn't get the built in footpad sensing in the VESC app to work with my velostat, I think it may have been because my velostat was barely changing the voltage. So I used a small arduino board to do the footpad logic and then feed that to the VESC.
 
-<p align="center"><img src="OneWheel%20Photos/Footpad_arduino.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Footpad_under.jpg" height=30% width=45%> </p> 
+<p align="center"><img src="OneWheel%20Photos/Footpad_arduino.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Footpad_under.jpg" height=10% width=45%> </p> 
 <img src="OneWheel%20Photos/Footpad_data.jpg" height=45% width=30%>
 
 I powered the arduino off of the 5v and GND from the CAN-BUS port on the VESC
