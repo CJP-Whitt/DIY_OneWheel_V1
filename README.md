@@ -1,3 +1,7 @@
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+.medium {height=40% width=40%}
+</style>")
 # OneWheel
 Custom DIY OneWheel Electric Board. I decided to try to make an easy to follow guide on my one wheel process in hopes that everyone else doesn't have to go through the same pain as me in order to do their own DIY OneWheel. Very fun project with great opportunities for learning to engineer.
 
@@ -129,7 +133,3 @@ First time testing the OneWheel without supports --> https://www.youtube.com/wat
 3. New Decks (The improvised skate deck is giving me more trouble than it's worth)
 4. Pressure sensitive footpads
 
-
-.medium {
-  height=40% width=40%
-}
