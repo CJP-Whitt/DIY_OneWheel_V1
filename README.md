@@ -8,9 +8,9 @@ Do your research! I do not take responsibility for any issues you may encounter 
 
 # Finished Project
 ### _Max Range: 5.5 miles (8.8 km), Max Speed: 20mph (32 kmh)_
-<p align="center"><img src="OneWheel%20Photos/whole_angle.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Rail_switch.jpg" height=45% width=45%></p>
-<p align="center"><img src="OneWheel%20Photos/Brains_tray2.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Brains_tray_close_marked.jpg" height=45% width=45%></p>
-<p align="center"><img src="OneWheel%20Photos/battery_tray_full.jpg" height=45% width=45%> <img src="OneWheel%20Photos/battery_tray_full_close_marked.jpg" height=45% width=45%></p>
+<p align="center"><img src="OneWheel%20Photos/whole_angle.jpg" height=45% width=45%>  <img src="OneWheel%20Photos/Rail_switch.jpg" height=45% width=45%></p>
+<p align="center"><img src="OneWheel%20Photos/Brains_tray2.jpg" height=45% width=45%>  <img src="OneWheel%20Photos/Brains_tray_close_marked.jpg" height=45% width=45%></p>
+<p align="center"><img src="OneWheel%20Photos/battery_tray_full.jpg" height=45% width=45%>  <img src="OneWheel%20Photos/battery_tray_full_close_marked.jpg" height=45% width=45%></p>
 
 
 # Components
