@@ -57,8 +57,7 @@ The Aluminum was too weak to support the motor axle twisting back and forth cons
 
 ### Step Two: Battery Pack
 I would suggest that if you are unfamiliar with batteries you do some research prior to building your packs. Essentially I built two 13 cell packs and ran them parallel, but it's not apparent from my final photo because I did some wiring magic to make more space in my battery tray.
-<p align="center"><img src="OneWheel%20Photos/Batt_OldSeriesPack.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Batt_Finished.jpg" height=45% width=45%></p>
-
+<p align="center"><img src="OneWheel%20Photos/OldSeriesPack.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Batt_Finished.jpg" height=45% width=45%></p>
 - 26 18650 3.7 cells total
 - 13 cells in series (x2)
 - Put both those packs in parallel
@@ -90,12 +89,13 @@ The wires you don't see in the MPU (Dark Blue, two greens) are the wires for the
 ![alt test](OneWheel%20Photos/Wiring_Switch.jpg)
 
 #### Finished Component and Battery Tray
-![alt test](OneWheel%20Photos/componentTray.jpg)
-![alt test](OneWheel%20Photos/batteryTray.jpg)
-![alt test](OneWheel%20Photos/onewheelAlmostDone.jpg)
+<p align="center"><img src="OneWheel%20Photos/componentTray.jpg" height=30% width=30%> <img src="OneWheel%20Photos/batteryTray.jpg" height=30% width=30%> <img src="OneWheel%20Photos/onewheelAlmostDone.jpg" height=30% width=30%></p>
 
 ### Step Four: Metal Trays
 The 3D printed trays were not holding up in early tests so I made some metal trays out of very thin steel sheet metal.
+<p align="center"><img src="OneWheel%20Photos/tray_template.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Metal_tray.jpg" height=45% width=45%></p>
+
+
 
 
 ### Step Five: VESC App
