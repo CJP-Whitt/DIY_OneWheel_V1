@@ -6,6 +6,10 @@ Link to the CAD File --> https://a360.co/2GcbuvP
 # Disclaimer!
 Do your research! I do not take responsibility for any issues you may encounter during your build if you attempt to make a onewheel. It is difficult and there are many roadblocks you must engineer your way through. Learning comes through failure and troubleshooting so get used to it now if you plan on doing more projects in the future.
 
+# Finished Prject
+![alt test](OneWheel%20Photos/whole_angle)
+
+
 # Components
 **Fundamental Components**
 1. MPU6050 gyro, you can get these anywhere.
@@ -15,20 +19,17 @@ Do your research! I do not take responsibility for any issues you may encounter 
 5. 13 18650 3.7 single cell batteries: (Get this anywhere, preferably samsung brand)
 6. 48V 13s Battery Management System (BMS): https://vruzend.com/product/48v-13s-battery-management-system-bms/
 7. VRUZEND battery kit V2.1 (Battery Clips): https://vruzend.com/product/vruzend-battery-kit-v2-0/
-8. Adafruit Grand Central M4 Express featuring SAMD51 (for the arduino balancing route): https://www.adafruit.com/product/4084
-9. Relay 12v switch, 120A max: https://www.amazon.com/Heavy-Duty-Relay-Split-Charge/dp/B07T35K8S2/ref=sr_1_12_sspa?gclid=Cj0KCQiAxrbwBRCoARIsABEc9sig7-S4l6okahDaEJmfuOvVVYE2xkklJyqML_9cLc2hu3RcjMeeA-QaAli5EALw_wcB&hvadid=322362950837&hvdev=c&hvlocphy=1014046&hvnetw=g&hvpos=1t2&hvqmt=e&hvrand=14030937440563530796&hvtargid=kwd-303078168660&hydadcr=5707_9590301&keywords=12v+120a+relay&qid=1578031911&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUVRFV0JYT1hGSEFJJmVuY3J5cHRlZElkPUEwMjE5MzQwN05PSko5NEJDM0hCJmVuY3J5cHRlZEFkSWQ9QTA4MDc4NDRON01RVzNMUzNWU1Mmd2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
-10. 60v to 3v-32v step-down converter, preferably one with a flyback diode, you can get them everywhere and I got one on ebay
-11. 10in wide skate deck: https://www.amazon.com/gp/product/B003FVFVUU/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+8. Relay 12v switch, 120A max: https://www.amazon.com/Heavy-Duty-Relay-Split-Charge/dp/B07T35K8S2/ref=sr_1_12_sspa?gclid=Cj0KCQiAxrbwBRCoARIsABEc9sig7-S4l6okahDaEJmfuOvVVYE2xkklJyqML_9cLc2hu3RcjMeeA-QaAli5EALw_wcB&hvadid=322362950837&hvdev=c&hvlocphy=1014046&hvnetw=g&hvpos=1t2&hvqmt=e&hvrand=14030937440563530796&hvtargid=kwd-303078168660&hydadcr=5707_9590301&keywords=12v+120a+relay&qid=1578031911&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUVRFV0JYT1hGSEFJJmVuY3J5cHRlZElkPUEwMjE5MzQwN05PSko5NEJDM0hCJmVuY3J5cHRlZEFkSWQ9QTA4MDc4NDRON01RVzNMUzNWU1Mmd2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
+9. 60v to 3v-32v step-down converter, preferably one with a flyback diode, you can get them everywhere and I got one on ebay
 
 
 **Other Components**
-1. HiLetgo HC-05 Wireless Bluetooth RF Transceiver: https://www.amazon.com/gp/product/B071YJG8DR/ref=ox_sc_act_title_1?smid=A30QSGOJR8LMXA&psc=1
-2. Pressure-Sensitive Conductive Sheet: https://www.adafruit.com/product/1361
-3. Aluminum Rectangular Hollow Tube 2" x 1" https://store.buymetal.com/aluminum/rectangular-tube/6061-t6-t6511/aluminum-rectangular-tube-6061-t6511-2-1-0.125.html
-4. Switch, I used an aircraft style switch because they look cool...but any will work as long as it works with the output voltage of your voltage step-down converter. In my case it was 12v
-5. If you are doing the arduino method you need another voltage step-down from 48ish volts to 5v to power your arduino board
-6. I suggest using JST Connectors!!! It's super cheap to get on Amazon and will help you undo your mistakes much easier
-7. 1in wide furniture wheels
+1. Pressure-Sensitive Conductive Sheet: https://www.adafruit.com/product/1361
+2. Aluminum Rectangular Hollow Tube 2" x 1" https://store.buymetal.com/aluminum/rectangular-tube/6061-t6-t6511/aluminum-rectangular-tube-6061-t6511-2-1-0.125.html
+3. Switch, I used an aircraft style switch because they look cool...but any will work as long as it works with the output voltage of your voltage step-down converter. In my case it was 12v
+4. If you are doing the arduino method you need another voltage step-down from 48ish volts to 5v to power your arduino board
+5. I suggest using JST Connectors!!! It's super cheap to get on Amazon and will help you undo your mistakes much easier
+6. Rubber wheels with bearing: https://www.mcmaster.com/catalog/126/1524
 
 # Build Info
 - 48v 13s 2p Battery Pack
