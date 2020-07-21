@@ -42,16 +42,18 @@ Do your research! I do not take responsibility for any issues you may encounter 
 # Build Progression
 
 ### Step One: The frame
-I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you want to follow my process, but generally you need two rails that will hold the wires going from the battery compartment to your other component and mounts for connecting the motor axle to to your rails. If you are machinist this will be fairly easy, but if not I suggest you have someone else do this part. My CAD files provide the general outline but you need to decide how you want to do your own motor mounts.
-![alt test](OneWheel%20Photos/Rail_IsoView.jpg)
-![alt test](OneWheel%20Photos/Rail_TestFit.jpg)
+I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you want to follow my process, but generally you need two rails that will hold the wires going from the battery compartment to your other component and mounts for connecting the motor axle to your rails. If you are a machinist this will be fairly easy, but if not I suggest you have someone else do this part. My CAD files provide the general outline but you need to decide how you want to do your own motor mounts. The third pic is after I finished and put my switch and stuff in. The yellow male connector is wired for charging to the bms and pack.
+<p align="center"><img src="OneWheel%20Photos/Rail_IsoView.jpg" height=25% width=25%> <img src="OneWheel%20Photos/Rail_TestFit.jpg" height=25% width=45%><img src="OneWheel%20Photos/Rail_Finished.jpg" height=25% width=45%></p>
 - Two rails
-- Motor mounts (I attached straight to rails with slot lock washer that comes with the wheel. Still working!)
+- Motor mounts: I attached straight to rails with a slot lock washer that comes with the wheel. Did not hold up very long : ( 
 - Holes on top of rails to attach component trays and foot pads
 - I would suggest getting the rails extra long just in case you need larger component trays than you first thought, you can cut them later
 
-Here is the rail after I finished and put my switch and stuff in. The yellow male connector is wired for charging to the bms and pack.
-![alt test](OneWheel%20Photos/Rail_Finished.jpg)
+The Aluminum was too weak to support the motor axle twisting back and forth constantly so I made some L shaped steel brackets with a slot in the middle for the axle. I don't have any pics of them when I was working on them but here you can see them on the rails.
+<p align="center"><img src="OneWheel%20Photos/motor_mount_bot.jpg" height=45% width=45%> <img src="OneWheel%20Photos/motor_mount_top.jpg" height=45% width=45%></p>
+
+
+
 
 ### Step Two: Battery Pack
 I would suggest that if you are unfamiliar with batteries you do some research prior to building your packs. Essentially I built two 13 cell packs and ran them parallel, but it's not apparent from my final photo because I did some wiring magic to make more space in my battery tray.
@@ -92,10 +94,9 @@ The wires you don't see in the MPU (Dark Blue, two greens) are the wires for the
 ![alt test](OneWheel%20Photos/batteryTray.jpg)
 ![alt test](OneWheel%20Photos/onewheelAlmostDone.jpg)
 
-### Step Four: Decks
-The one wheel needs a deck on top to rest your foot on so I found a deck (listed in the components) wide enough to cover the tray and rails. Then I drilled holes and counter sunk them to enable me to attach it to the rails.
-The picture is from when I was painting them so ignore the paint stuff.
-![alt test](OneWheel%20Photos/deck.jpg)
+### Step Four: Metal Trays
+The 3D printed trays were not holding up in early tests so I made some metal trays out of very thin steel sheet metal.
+
 
 ### Step Five: VESC App
 With everything now wired up I would suggest you test using a multimeter from the beginning of your wiring to the end to make sure you don't fry anything. This is also why I say to use a fuse.
