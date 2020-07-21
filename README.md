@@ -43,7 +43,7 @@ Do your research! I do not take responsibility for any issues you may encounter 
 
 ### Step One: The frame
 I have created a CAD file (Uses Fusion 360 which is FREE!) for the frame if you want to follow my process, but generally you need two rails that will hold the wires going from the battery compartment to your other component and mounts for connecting the motor axle to your rails. If you are a machinist this will be fairly easy, but if not I suggest you have someone else do this part. My CAD files provide the general outline but you need to decide how you want to do your own motor mounts. The third pic is after I finished and put my switch and stuff in. The yellow male connector is wired for charging to the bms and pack.
-<p align="center"><img src="OneWheel%20Photos/Rail_IsoView.jpg" height=25% width=25%> <img src="OneWheel%20Photos/Rail_TestFit.jpg" height=25% width=25%><img src="OneWheel%20Photos/Rail_Finished.jpg" height=25% width=25%></p>
+<p align="center"><img src="OneWheel%20Photos/Rail_IsoView.jpg" height=30% width=30%> <img src="OneWheel%20Photos/Rail_TestFit.jpg" height=30% width=30%><img src="OneWheel%20Photos/Rail_Finished.jpg" height=30% width=30%></p>
 - Two rails
 - Motor mounts: I attached straight to rails with a slot lock washer that comes with the wheel. Did not hold up very long : ( 
 - Holes on top of rails to attach component trays and foot pads
