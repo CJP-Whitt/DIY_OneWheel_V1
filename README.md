@@ -122,16 +122,28 @@ Here they are attached to the side of the rails
 So this motor comes stock wired in the “wye”(star) configuration which for bldc motors means high torque low rpm. So after getting advice from others I went ahead and wired the motor to be in the “delta” configuration. This enabled me to reach speeds of 20mph, but with roughly 70% less torque so less acceleration. But for me as a 190 lb dude I can still ride it with ease.
 
 For great info on this read up: https://forum.esk8.news/t/redstar-diy-onewheel/10595/73
+Also this video helped me, it’s basically the conversion but in reverse: https://www.youtube.com/watch?v=b7DkOYdarkU
 
 Here's some pics of my process…
 <p align="center"><img src="OneWheel%20Photos/Motor_wheel.jpg" height=30% width=30%> <img src="OneWheel%20Photos/Motor_start.jpg" height=30% width=30%> <img src="OneWheel%20Photos/Motor_wip.jpg" height=30% width=30%></p>
 <p align="center"><img src="OneWheel%20Photos/Motor_tape.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Motor_done.jpg" height=45% width=45%></p>
 
 
+### Footpads
+I really thought this would be the easiest part but it ended up taking much longer than I wanted. I couldn't get the built in footpad sensing in the VESC app to work with my velostat, I think it may have been because my velostat was barely changing the voltage. So I used a small arduino board to do the footpad logic and then feed that to the VESC.
+
+<p align="center"><img src="OneWheel%20Photos/Footpad_arduino.jpg" height=30% width=30%> <img src="OneWheel%20Photos/Footpad_under.jpg" height=30% width=30%> <img src="OneWheel%20Photos/Footpad_data.jpg" height=30% width=30%></p>
+
+
+Arduino codes is in this repo
+
+
 ## Demos
 
 ### Maiden Voyage
 First time testing the OneWheel without supports --> https://www.youtube.com/watch?v=Fk23jWkvQ68
+
+
 
 ## Future Plans
 1. Added parallel pack to fit in the brains tray
