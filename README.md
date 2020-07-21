@@ -10,8 +10,8 @@ Link to the CAD File --> https://a360.co/2GcbuvP
 # Disclaimer!
 Do your research! I do not take responsibility for any issues you may encounter during your build if you attempt to make a onewheel. It is difficult and there are many roadblocks you must engineer your way through. Learning comes through failure and troubleshooting so get used to it now if you plan on doing more projects in the future.
 
-# Finished Prject
-<p alight=center><img src="OneWheel%20Photos/whole_angle.jpg" height=40% width=40%> <img src="OneWheel%20Photos/whole_wide.jpg" height=40% width=40%></p>
+# Finished Project
+<p alight="center"><img src="OneWheel%20Photos/whole_angle.jpg" height=40% width=40%> <img src="OneWheel%20Photos/whole_wide.jpg" height=40% width=40%></p>
 
 
 # Components
