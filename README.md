@@ -9,7 +9,7 @@ Do your research! I do not take responsibility for any issues you may encounter 
 # Finished Project
 <p align="center"><img src="OneWheel%20Photos/whole_angle.jpg" height=45% width=45%> <img src="OneWheel%20Photos/whole_wide.jpg" height=45% width=45%></p>
 <p align="center"><img src="OneWheel%20Photos/Brains_tray2.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Brains_tray_close_marked.jpg" height=45% width=45%></p>
-<p align="center"><img src="OneWheel%20Photos/battery_tray_full.jpg" height=45% width=45%> <img src="OneWheel%20Photos/batery_tray_full_close_marked.jpg" height=45% width=45%></p>
+<p align="center"><img src="OneWheel%20Photos/battery_tray_full.jpg" height=45% width=45%> <img src="OneWheel%20Photos/battery_tray_full_close_marked.jpg" height=45% width=45%></p>
 
 
 # Components
