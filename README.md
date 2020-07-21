@@ -58,6 +58,7 @@ The Aluminum was too weak to support the motor axle twisting back and forth cons
 ### Step Two: Battery Pack
 I would suggest that if you are unfamiliar with batteries you do some research prior to building your packs. Essentially I built two 13 cell packs and ran them parallel, but it's not apparent from my final photo because I did some wiring magic to make more space in my battery tray.
 <p align="center"><img src="OneWheel%20Photos/Batt_OldSeriesPack.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Batt_Finished.jpg" height=45% width=45%></p>
+
 - 26 18650 3.7 cells total
 - 13 cells in series (x2)
 - Put both those packs in parallel
