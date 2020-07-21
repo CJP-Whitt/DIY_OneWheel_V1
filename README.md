@@ -122,14 +122,10 @@ I screwed 4 1in wide furniture wheels to frame so that if I slammed the nose or 
 Here they are attached to the underside of the rails
 ![alt test](OneWheel%20Photos/OneWheelBotWheels.jpg)
 
-## Demo
+## Demos
 
 ### Maiden Voyage
 First time testing the OneWheel without supports --> https://www.youtube.com/watch?v=Fk23jWkvQ68
 
 ## Future Plans
-1. Adjusting VESC settings for smoothest experience
-2. Stronger frame (Mainly non 3D printed component and battery trays, probably aluminum)
-3. New Decks (The improvised skate deck is giving me more trouble than it's worth)
-4. Pressure sensitive footpads
-
+1. Added parallel pack to fit in the brains tray
