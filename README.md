@@ -93,7 +93,8 @@ The wires you don't see in the MPU (Dark Blue, two greens) are the wires for the
 
 ### Step Four: Metal Trays
 The 3D printed trays were not holding up in early tests so I made some metal trays out of very thin steel sheet metal.
-<p align="center"><img src="OneWheel%20Photos/tray_template.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Metal_tray.jpg" height=45% width=45%></p>
+<p align="center"><img src="OneWheel%20Photos/tray_template.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Metal_Tray.jpg" height=45% width=45%></p>
+<p align="center"><img src="OneWheel%20Photos/Open_full.jpg" height=80% width=80%></p>
 
 
 
@@ -106,23 +107,25 @@ Here is a good video on how to set it all up: https://www.youtube.com/watch?v=0y
 
 I have XML files for the settings of the motor and app configuration in this repo
 
-After this you can technically ride it fairly easily but I went ahead and added some other stuff to make the ride better.
+After this you can technically ride it fairly easily but it will only go 12mph so I went ahead and added some other stuff to make the ride better.
 
-### Add Ons: Dead Man's Switch (for testing), Safety Wheels
-#### Dead Man's Switch
-I used an old Wii Nunchuck and wired the two vesc switches that will later be used for a pressure sensitive footpad. So when I did test rides if anything went wrong the board wouldn't run away from me.
 
-Wiring of the nunchuck
-![alt test](OneWheel%20Photos/DeadMans.jpg)
-
-Testing through VESC App
-![alt test](OneWheel%20Photos/DeadMans2.jpg)
-
-#### Safety Wheels
-I bought some rubber wheels with bearings from McMaster-Carr but sadly I measured something wrong and they didnt fit inside the rails, so I attached them on the outer side of the rail, with the bolt going through a whole on the other side for rigidity.
+### Safety Wheels
+I bought some rubber wheels with bearings from McMaster-Carr but sadly I measured something wrong and they didn't fit inside the rails, so I attached them on the outer side of the rail, with the bolt going through a hole on the other side for rigidity.
 
 Here they are attached to the side of the rails
-![alt test](OneWheel%20Photos/OneWheelBotWheels.jpg)
+<p align="center"><img src="OneWheel%20Photos/Wheel.jpg" height=30% width=30%> <img src="OneWheel%20Photos/Rail_mount_close.jpg" height=30% width=30%> <img src="OneWheel%20Photos/Rail_wheel.jpg" height=30% width=30%></p>
+
+
+### Motor Modification
+So this motor comes stock wired in the “wye”(star) configuration which for bldc motors means high torque low rpm. So after getting advice from others I went ahead and wired the motor to be in the “delta” configuration. This enabled me to reach speeds of 20mph, but with roughly 70% less torque so less acceleration. But for me as a 190 lb dude I can still ride it with ease.
+
+For great info on this read up: https://forum.esk8.news/t/redstar-diy-onewheel/10595/73
+
+Here's some pics of my process…
+<p align="center"><img src="OneWheel%20Photos/Motor_wheel.jpg" height=30% width=30%> <img src="OneWheel%20Photos/Motor_start.jpg" height=30% width=30%> <img src="OneWheel%20Photos/Motor_wip.jpg" height=30% width=30%></p>
+<p align="center"><img src="OneWheel%20Photos/Motor_tape.jpg" height=45% width=45%> <img src="OneWheel%20Photos/Motor_done.jpg" height=45% width=45%></p>
+
 
 ## Demos
 
