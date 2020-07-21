@@ -11,7 +11,7 @@ Link to the CAD File --> https://a360.co/2GcbuvP
 Do your research! I do not take responsibility for any issues you may encounter during your build if you attempt to make a onewheel. It is difficult and there are many roadblocks you must engineer your way through. Learning comes through failure and troubleshooting so get used to it now if you plan on doing more projects in the future.
 
 # Finished Prject
-<img src="OneWheel%20Photos/whole_angle.jpg" class="medium"> <img src="OneWheel%20Photos/whole_wide.jpg" class="medium">
+<img src="OneWheel%20Photos/whole_angle.jpg" height=40% width=40%> <img src="OneWheel%20Photos/whole_wide.jpg" height=40% width=40%>
 
 
 # Components
@@ -133,3 +133,9 @@ First time testing the OneWheel without supports --> https://www.youtube.com/wat
 3. New Decks (The improvised skate deck is giving me more trouble than it's worth)
 4. Pressure sensitive footpads
 
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+</style>
