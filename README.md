@@ -147,16 +147,16 @@ Arduino code is in this repo
 
 ### Maiden Voyage
 First time testing the OneWheel --> https://www.youtube.com/watch?v=Fk23jWkvQ68
+First good rides --> https://youtu.be/yCfcjczSD3g  |  https://youtu.be/kdDiJmPOgKU 
 
 
 
 
 
 ## Future Plans
-1. Add parallel pack to fit in the brains tray
+1. Added parallel pack to fit in the brains tray
 2. More compact battery packs so I can shrink tray depth
 3. More concealed wheels
-4. Concaved Footpads for better comfort
 
 
 
